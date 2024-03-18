@@ -129,6 +129,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+![image](https://github.com/Vigneshv-23/slot/assets/110780412/776533b2-e583-42ea-80d5-9d26591e6a17)
 
 
 ## RESULT
